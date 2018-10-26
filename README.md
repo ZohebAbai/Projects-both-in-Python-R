@@ -13,3 +13,6 @@
 * Logistic Regression
 * K- Nearest Neighbor Classification
 * Support Vector Classification
+* Naive Bayes Classification
+* Decision Tree Classification
+* Random Tree Classification
