@@ -19,4 +19,4 @@
 
 #### Clustering
 * K-Means Clustering
-* Heirarchical Clustering
+* Hierarchical Clustering
