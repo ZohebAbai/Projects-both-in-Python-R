@@ -16,3 +16,7 @@
 * Naive Bayes Classification
 * Decision Tree Classification
 * Random Tree Classification
+
+#### Clustering
+* K-Means Clustering
+* Heirarchical Clustering
