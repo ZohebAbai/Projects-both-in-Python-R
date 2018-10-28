@@ -24,3 +24,7 @@
 #### Association Rule Learning
 * Apriori Model
 * Eclat Model
+
+#### Reinforcement Learning
+* Upper Confidence Bound Model
+* Thompson Sampling Model
