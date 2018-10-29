@@ -28,3 +28,9 @@
 #### Reinforcement Learning
 * Upper Confidence Bound Model
 * Thompson Sampling Model
+
+#### Natural Language Processing
+
+#### Dimensionality Reduction
+* Principal Component Analysis (PCA)
+* Linear Discriminant Analysis (LDA)
