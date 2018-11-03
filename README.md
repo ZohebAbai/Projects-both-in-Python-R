@@ -30,6 +30,7 @@
 * Thompson Sampling Model
 
 #### Natural Language Processing
+* Bag of Words Model
 
 #### Dimensionality Reduction
 * Principal Component Analysis (PCA)
