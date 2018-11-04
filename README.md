@@ -35,3 +35,7 @@
 #### Dimensionality Reduction
 * Principal Component Analysis (PCA)
 * Linear Discriminant Analysis (LDA)
+
+#### Model Evaluation and HyperParameter Tuning
+* k-Fold Cross Validation
+* Grid Search
