@@ -1,6 +1,8 @@
 # Data Science Projects both in Python and R
+
 #### Similar projects both in python and R on following sections:
 * Data Preprocessing
+
 #### Regression
  * Simple Linear Regression
  * Multiple Linear Regression
@@ -39,3 +41,6 @@
 #### Model Evaluation and HyperParameter Tuning
 * k-Fold Cross Validation
 * Grid Search
+
+### Opinion/Comments
+#### For Machine Learning portions Python is effortless, while for Statistical portions R is unparalleled. If someone wants to consider Data Science as their career, he/she should learn both for now. 
